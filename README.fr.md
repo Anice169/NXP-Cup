@@ -1,7 +1,7 @@
 # 🏎️ Voiture autonome suiveuse de ligne (inspirée de la NXP Cup)
 
 
-![Voiture finie](asset/main.jpeg)
+![Voiture finie](assets/main.jpeg)
 
 > Vue de profil de la voiture une fois l'assemblage mécanique et électronique terminé.
 ## 📖 Présentation
@@ -48,7 +48,7 @@ Nous avons conservé la base mécanique du kit officiel et remplacé les composa
 ## 📸 Démonstration
  
 <p align="center">
-  <img src="asset/demonstration.gif" alt="Démonstration de la voiture suivant la ligne noire" width="700"><br>
+  <img src="assets/demonstration.gif" alt="Démonstration de la voiture suivant la ligne noire" width="700"><br>
   <em>La voiture suit de façon autonome la ligne noire, courbes comprises (vue de dessus, environ 8 secondes).</em>
 </p>
 
@@ -80,7 +80,7 @@ Nous avons conservé la base mécanique du kit officiel et remplacé les composa
 
 ## ⚡ Brochage (GPIO ESP32)
 
-![Schema fonctionnel du circuit](asset/wiring_diagram.png)
+![Schema fonctionnel du circuit](assets/wiring_diagram.png)
  <!--
 | GPIO | Fonction |
 |---|---|
