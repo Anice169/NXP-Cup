@@ -1,7 +1,7 @@
 # 🏎️ Autonomous Line-Following Car (inspired by the NXP Cup)
 
 
-![Finished car](asset/main.jpeg)
+![Finished car](assets/main.jpeg)
 
 > Side view of the car once mechanical and electronic assembly was completed.
 ## 📖 Overview
@@ -48,7 +48,7 @@ We kept the mechanical base of the official kit and replaced the electronic comp
 ## 📸 Demonstration
 
 <p align="center">
-  <img src="asset/demonstration.gif" alt="Demonstration of the car following the black line" width="700"><br>
+  <img src="assets/demonstration.gif" alt="Demonstration of the car following the black line" width="700"><br>
   <em>The car autonomously follows the black line, including curves (top view, about 8 seconds).</em>
 </p>
 
@@ -80,7 +80,7 @@ We kept the mechanical base of the official kit and replaced the electronic comp
 
 ## ⚡ Pinout (ESP32 GPIO)
 
-![Functional circuit diagram](asset/wiring_diagram.png)
+![Functional circuit diagram](assets/wiring_diagram.png)
  <!--
 | GPIO | Function |
 |---|---|
